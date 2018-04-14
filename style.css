@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
 body {
+    display: flex;
     background: #b0fcf1;
 }
 h1 {
@@ -12,7 +13,7 @@ h2 {
    text-align: center;
    color:#330584;
    font-size: 45px;
-   font-style: normal
+   font-style: normal;
    font-family: "Open Sans", sans-serif;
 }
 p {
