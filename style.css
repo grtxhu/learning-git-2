@@ -5,21 +5,26 @@ body {
     flex-direction: column;
     background: #b0fcf1;
 }
+
 h1 {
-  text-align: center;
-  color: #20074d;
-  font-family: "Open Sans", sans-serif;
+    text-align: center;
+    color: #20074d;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
 }
+
 h2 {
-   text-align: center;
-   color:#330584;
-   font-size: 45px;
-   font-style: normal;
-   font-family: "Open Sans", sans-serif;
+    text-align: center;
+    color:#330584;
+    font-size: 45px;
+    font-style: normal;
+    font-family: "Open Sans", sans-serif;
 }
+  
 p {
     margin: 0 auto;
     width: 250px;
     font-size: 20px;
+    font-style: normal;
     text-align: left;    
 }
