@@ -3,6 +3,8 @@
 body {
     display: -ms-flexbox;
     display: flex;
+    -ms-flex-direction: column;
+        flex-direction: column;
     background: #b0fcf1;
 }
 h1 {
