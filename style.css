@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
 body {
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
     background: #b0fcf1;
 }
 
