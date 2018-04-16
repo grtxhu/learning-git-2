@@ -4,26 +4,27 @@
 
 $fonts: 'Open Sans', sans-serif;
 $main-color: #20074d;
-$title-color: #cbdbd9;
-$background-color: #b0fcf1
+$title-color: #1d0342;
+$body-color: #b0fcf1;
 
 
 body {
     display: flex;
     flex-direction: column;
-	color: background-color;
+	background-color: $body-color;
 
 }
 
+
 h1, h2, p {
-	font-family: $fonts
+	font-family: $fonts;
 }
 
  h1, h2 {
     text-align: center;
     font-family: $fonts;
     font-style: normal;
-    font-family: 
+    font-family: $fonts;
 }
 
 h1, p {
